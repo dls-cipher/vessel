@@ -40,7 +40,7 @@ export default class Welcome extends Component {
                 Vessel
                 <Header.Subheader>
                   <p>
-                    Desktop wallet for the Steem Blockchain
+                    Desktop wallet for the Smoke Blockchain
                   </p>
                   <p>
                     Created by
@@ -59,7 +59,7 @@ export default class Welcome extends Component {
                 <Header>
                   Getting Started
                   <Header.Subheader>
-                    To get started with Vessel, an account must be added to the wallet.
+                    Smoke. Get Paid. Repeat.
                   </Header.Subheader>
                 </Header>
 
